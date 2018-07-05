@@ -4,7 +4,7 @@ Example Magento 2 module creating a RequireJS mixin for the UiComponent class
 ## Installation
 To install use the following composer command:
 
-    composer require yireo-training/magento2-example-uicomponent-mixin
+    composer require yireo-training/magento2-example-uicomponent-mixin:dev-master
 
 Next enable the module:
 
